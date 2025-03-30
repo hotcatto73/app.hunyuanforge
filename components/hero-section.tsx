@@ -2,8 +2,8 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link"; // Import the Link component
 
 export function HeroSection() {
-  const loginDomain = "https://your-login-domain.com"; // Replace with your login domain
-  const blogSubdomain = "https://blog.your-main-domain.com"; // Replace with your blog subdomain
+  const loginDomain = "https://hunyuanforge.aichive.space"; // Replace with your login domain
+  const blogSubdomain = "https://blog.aichive.space"; // Replace with your blog subdomain
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-black to-zinc-900">
